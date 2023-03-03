@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: blue;
+    border: 10px rgb(15, 13, 12);
+    }
+   
+    table{
+      
+       width: 100%;
+       text-align: center;
+       margin: auto;
+    }
+    input{
+  
+    }
+    tr,
+    td,
+    table{
+        border: 2px solid ;
+       border-collapse: collapse;
+       width: 300px;
+       text-align: center;
+    }
+    .tablediv {
+       text-align: center;
+    }
+    .anish{
+        width: 60%;
+        margin: auto;
+        border: 10px solid chocolate ;
+        background-color: aqua;
+    }
+    .counter:hover{
+        transform: scale(0.5);
+    }
